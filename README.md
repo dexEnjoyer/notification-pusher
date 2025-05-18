@@ -29,6 +29,14 @@ notification-service/
 ```
 
 ---
+## Workflow model
+
+![Screenshot 2025-05-19 051829](https://github.com/user-attachments/assets/efbacb0f-c865-4229-88f7-40a9606fc0f7)
+
+
+![Screenshot 2025-05-19 051837](https://github.com/user-attachments/assets/0204a01b-5cfa-4dc4-aab5-9dcc888ad934)
+
+
 
 ## ⚙️ Setup Instructions
 
