@@ -134,7 +134,8 @@ python app/worker.py
 
 This diagram illustrates the flow of how notifications are processed using the Notification Service.
 
-![Notification Service Output](./assets/notification-service-output.png)
+![notification-service-output (1)](https://github.com/user-attachments/assets/4a9b5daa-864a-4f55-9f2f-a9374670af65)
+
 
 ---
 
