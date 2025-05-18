@@ -128,6 +128,15 @@ python app/worker.py
 ---
 
 ## 🧩 Future Improvements
+---
+
+## 🖼️ Output
+
+This diagram illustrates the flow of how notifications are processed using the Notification Service.
+
+![Notification Service Output](./assets/notification-service-output.png)
+
+---
 
 - Add retry mechanism for failed notifications
 - Add support for real email/SMS APIs (e.g., Twilio, SendGrid)
